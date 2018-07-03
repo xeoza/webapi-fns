@@ -1,7 +1,7 @@
-# nalog-webapi
+# webapi-fns
 
 Микросервис позволяет искать объекты в территориальной базе данных ФНС.
-Стек: .net core, swagger, psql, <a href="https://github.com/xeoza/parser-nalog-ru">parser</a>
+Стек: .net core, swagger, psql, <a href="https://github.com/xeoza/parser-fns">parser</a>
 
 Документация:
 
@@ -14,7 +14,7 @@
 |Подключение swagger| ✅ |
 |Настройка авторизации| ✅ |
 |linq2db| ✅ |
-|Подключение к API <a href="https://github.com/xeoza/parser-nalog-ru">parser</a>|  |
+|Подключение к API <a href="https://github.com/xeoza/parser-fns">parser</a>|  |
 |Подключение к БД| ✅ |
 |Нормализация БД| ♻️ |
 |Модульное и интеграционное тестировнаие| 🌀 |
